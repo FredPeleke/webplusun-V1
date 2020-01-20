@@ -5,6 +5,25 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/i18n
+  label: i18n
+  create: documents
+  match: "**/*"
+- type: heading
+  label: Auteur
+- type: directory
+  path: content/content/french/author
+  label: Auteur
+  create: all
+  match: "**/*"
+- type: heading
+  label: Blog
+- type: directory
+  path: contebnt/content/french/blog
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
   path: content/content
   label: Pages
   create: all
