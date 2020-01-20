@@ -1,0 +1,24 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_Image : "images/backgrounds/bg-1.jpg"
+  counter_Item:
+    # counter item loop
+    - title : "Chargement rapide"
+      icon : "ti-timer" # themify icon pack : https://themify.me/themify-icons
+      count : "320"
+    
+    # counter item loop
+    - title : "Mobile First"
+      icon : "ti-mobile" # themify icon pack : https://themify.me/themify-icons
+      count : "Adaptatif"
+    
+    # counter item loop
+    - title : "Site sécurisé"
+      icon : "ti-lock" # themify icon pack : https://themify.me/themify-icons
+      count : "Sécurité"
+    
+    # counter item loop
+    - title : "1 interlocuteur"
+      icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
+      count : "250"

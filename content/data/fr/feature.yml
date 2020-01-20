@@ -1,0 +1,24 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/webplusun-clavier.jpg
+  title : WebPlusUn, agence web éco-responsable
+  content : "Basé entre Pays basque et Landes, WebPlusUn propose un service majeur en éco-conception de site, audit de performances et SXO sur la France entière.
+
+En relation directe avec de nombreuses entreprises de secteurs divers (décoration, immobilier, boutiques, e-commerce, alimentaire, surf, marketing, …) ayant une diffusion nationale et internationale, WebPlusUn mise sur la proximité et le contact avec ses clients."
+  feature_Item : 
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : Éco-conception
+      content : Désormais, les consommateurs accordent plus d’intérêt à vos valeurs qu’à vos produits. Alors que ceux-ci ont un vaste choix parmi vos concurrents sur les mêmes biens et services, la différence se fera en valorisant une certaine éthique.
+      
+    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      title : Audit de performance
+      content : Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre les comportements et améliorer les visites.
+
+    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title : Vision SXO
+      content : On réfléchie trop à son classement sur les moteurs de recherche au détriment de l’utilisateur direct. Pourtant l’un ne va pas sans l’autre. Le classement n’est pas l’aboutissement.
+      
+    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      title : Conseil en rédaction optimisée
+      content : De votre page d'accueil à celle de validation de commande, la qualité rédactionnelle est un critère majeur pour l'attention et le confort du lectorat, donc pour votre image de marque.

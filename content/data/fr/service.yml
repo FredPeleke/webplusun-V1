@@ -1,0 +1,30 @@
+---
+service:
+  enable: false
+  title: Services
+  service_Item:
+  - icon: ti-world
+    title: WordPress
+    content: Plus de 30% des sites dans le monde utilisent ce CMS. L'idée est de le
+      rendre léger, agréable, tout en restant intuitif et performant.
+  - icon: ti-layout
+    title: Responsive Design
+    content: À l'heure où les internautes visitent votre site avant tout avec leur
+      smartphone, mieux vaut être prêt à les recevoir !
+  - icon: ti-blackboard
+    title: Media &amp; Advertisement
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-palette
+    title: Graphic Design
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-package
+    title: Apps Development
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon: ti-pulse
+    title: Audit de performance
+    content: Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il
+      lisible ? Est-il bien indexé ? Autant que questions se posent afin de comprendre
+      les comportements et améliorer les visites.

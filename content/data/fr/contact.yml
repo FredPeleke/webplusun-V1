@@ -1,0 +1,19 @@
+---
+contact:
+  enable: true
+  title: Contact
+  subtitle: Un site éco-responsable vous intéresse ?
+  content: ''
+  form_Action: "#"
+  map:
+    enable: false
+    gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
+    mapLatitude: "51.5223477"
+    mapLongitude: "-0.1622023"
+  contact_Details:
+  - icon: ti-location-pin
+    info: 'Adresse : Tarnos, France'
+  - icon: ti-mobile
+    info: 'Mobile : 06.48.48.45.80'
+  - icon: ti-email
+    info: 'eMail : fred.maget@webplusun.fr'

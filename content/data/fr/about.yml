@@ -1,0 +1,14 @@
+---
+about:
+  enable: true
+  title: WebPlusUn c'est
+  about_Item:
+  - icon: ti-ruler-pencil
+    title: Créatif
+    content: Faire comme les autres mais pas comme les autres, tel est le mot d'ordre.
+  - icon: ti-cup
+    title: Expert
+    content: 12 années de création de sites axés SXO et éco-conception.
+  - icon: ti-thought
+    title: Réfléchi
+    content: S'adapter à la demande tout en restant raisonnable.

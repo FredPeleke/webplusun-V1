@@ -1,0 +1,11 @@
+---
+banner:
+  enable: true
+  bg_Image: images/slider/webplusun-hero.jpg
+  icon: ''
+  title: Éco-concept et Analyse web
+  content: Rien n'est permanent, sauf le changement. Il est encore temps pour être en avance.
+  button:
+    enable: true
+    label: Surfez sur un web plus sain 
+    link: "#services"
