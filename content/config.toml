@@ -1,0 +1,68 @@
+#####
+baseURL = "https://webplusun.netlify.com"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+disableLanguages = ["en"]
+disqusShortname = ""
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+title = "Webplusun | éco-concept et analyse web"
+[Languages.en]
+contentDir = "content/english"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.fr]
+contentDir = "content/french"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "Agence responsable"
+weight = 1
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[params]
+author = "WebPlusUn"
+description = "WebPlusUn propose un service majeur en éco-conception de site, audit de performances et optimisation SXO sur la France entière."
+googleAnalitycsID = "Your ID"
+logo = "images/logo.png"
+postShare = true
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/animate-css/animate.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.js]]
+URL = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "plugins/wow/wow.min.js"
+[params.preloader]
+enable = true
+preloader = "images/logo.png"
+[[params.social_Icon]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/WebPlusUn/"
